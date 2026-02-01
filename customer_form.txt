@@ -1,0 +1,14 @@
+Name: roshan
+Phone_number: 232323
+Address: hi
+Age: 23
+Email: thaparoshan878@gmail.com
+Account_type: saving account
+...................................
+Name: Roshan
+Phone_number: 922325212
+Address: nepal
+Age: 19
+Email: thaparoshan@gmail.com
+Account_type: saving account
+...................................

@@ -1,0 +1,21 @@
+Name: roshan
+Phone: thapa
+Address: ktm
+staff_id: 01
+Username: roshan
+Password: thapa
+...................................
+Name: ram
+Phone: 9232323
+Address: pk
+staff_id: 02
+Username: suraj
+Password: password
+...................................
+Name: ram
+Phone: 984561282
+Address: ktm
+staff_id: 03
+Username: ram
+Password: helloworld
+...................................

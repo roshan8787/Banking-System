@@ -1,0 +1,40 @@
+Name: roshan
+Phone_number: 2323
+Address: ktm
+Account_number: 0001
+Password: karki
+Account_type: current account
+Balance: 10000
+...................................
+Name: suraj
+Phone_number: 2323
+Address: pk
+Account_number: 0002
+Password: grg
+Account_type: current account
+Balance: 1123
+...................................
+Name: rabi
+Phone_number: 2323
+Address: palpa
+Account_number: 0003
+Password: thapa
+Account_type: current account
+Balance: 8500
+...................................
+Name: raj
+Phone_number: 2323
+Address: akdasf
+Account_number: 0004
+Password: thapa
+Account_type: saving account
+Balance: 100
+...................................
+Name: hari
+Phone_number: 9
+Address: pkhr
+Account_number: 0005
+Password: thapa
+Account_type: current account
+Balance: 2000
+...................................
